@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Quentin Tarantino",
+        "portraitLink": "",
+        "movies": [
+            {
+                "title": "Reservoir Dogs",
+                "releaseYear": 1992,
+                "iMDBRating": 83,
+                "rTScore": 91,
+                "iMDBLink": "https://www.imdb.com/title/tt0359715/?ref_=nm_flmg_dr_21",
+                "wikiLink": "https://en.wikipedia.org/wiki/Reservoir_Dogs",
+                "boxOffice": 2800000,
+                "awards": 0
+            },{
+                "title": "Pulp Fiction",
+                "releaseYear": 1994,
+                "iMDBRating": 89,
+                "rTScore": 92,
+                "iMDBLink": "https://www.imdb.com/title/tt0110912/?ref_=nm_flmg_dr_18",
+                "wikiLink": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+                "boxOffice": 213900000,
+                "awards": 22
+            },{
+                "title": "Jackie Brown",
+                "releaseYear": 1997,
+                "iMDBRating": 75,
+                "rTScore": 87,
+                "iMDBLink": "https://www.imdb.com/title/tt0119396/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Jackie_Brown",
+                "boxOffice": 74700000,
+                "awards": 2
+            },{
+                "title": "Kill Bill: Volume 1",
+                "releaseYear": 2003,
+                "iMDBRating": 81,
+                "rTScore": 85,
+                "iMDBLink": "https://www.imdb.com/title/tt0359715/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1",
+                "boxOffice": 180900000,
+                "awards": 7
+            },{
+                "title": "Kill Bill: Volume 2",
+                "releaseYear": 2004,
+                "iMDBRating": 80,
+                "rTScore": 84,
+                "iMDBLink": "https://www.imdb.com/title/tt0378194/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Kill_Bill:_Volume_2",
+                "boxOffice": 152200000,
+                "awards": 4
+            },{
+                "title": "Death Proof",
+                "releaseYear": 2007,
+                "iMDBRating": 70,
+                "rTScore": 65,
+                "iMDBLink": "https://www.imdb.com/title/tt1028528/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Death_Proof",
+                "boxOffice": 30000000,
+                "awards": 0
+            },{
+                "title": "Inglorious Basterds",
+                "releaseYear": 2009,
+                "iMDBRating": 83,
+                "rTScore": 88,
+                "iMDBLink": "https://www.imdb.com/title/tt0361748/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Inglorious_Basterds",
+                "boxOffice": 321500000,
+                "awards": 48
+            },{
+                "title": "Django Unchained",
+                "releaseYear": 2012,
+                "iMDBRating": 84,
+                "rTScore": 87,
+                "iMDBLink": "https://www.imdb.com/title/tt1853728/",
+                "wikiLink": "https://en.wikipedia.org/wiki/Django_Unchained",
+                "boxOffice": 425400000,
+                "awards": 29
+            },{
+                "title": "The Hateful Eight",
+                "releaseYear": 1992,
+                "iMDBRating": 83,
+                "rTScore": 91,
+                "iMDBLink": "https://www.imdb.com/title/tt3460252",
+                "wikiLink": "https://en.wikipedia.org/wiki/The_Hateful_Eight",
+                "boxOffice": 155800000,
+                "awards": 14
+            }
+        ]
+    },
+    {
+        "name": "Luc Besson",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Jim Jarmusch",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Stanley Kubrick",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Paul Thomas Anderson",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Christopher Nolan",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Danny Boyle",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Francis Ford Copolla",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Sophia Copolla",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Alfred Hitchcock",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "James Cameron",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Robert Zemeckis",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Harmony Korine",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Richard Linklater",
+        "portraitLink": "",
+        "movies": []
+    },
+    {
+        "name": "Roman Polanski",
+        "portraitLink": "",
+        "movies": []
+    }
+
+]
